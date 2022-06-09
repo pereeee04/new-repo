@@ -4,5 +4,9 @@ private life always wins
 dont be same be better
 everything is temporary
 no one will stay 4ever
+<<<<<<< HEAD
 git conflict
 conflict occur in git if two peoples work on same file & same line
+=======
+changes on remote repo for conflict
+>>>>>>> 82a6a7d9d3bf26b5283ca1d2be4f1b122688829d
